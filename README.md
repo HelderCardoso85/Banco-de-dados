@@ -1,2 +1,2 @@
 # Banco de dados 
-Primeiro repositorio de Git e Github
+Primeiro repositorio do curso de Git e Github
